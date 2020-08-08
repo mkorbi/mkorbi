@@ -16,4 +16,4 @@ jobs:
           max_post_count: 5
           commit_message: "Updated readme with the latest episode"
           comment_tag_name: "PODCAST"
-          feed_list: "https://anchor.fm/s/unwyred/podcast/rss"
+          feed_list: "https://anchor.fm/s/1db2f9b8/podcast/rss"
