@@ -36,11 +36,11 @@ At day I build cloud native solutions on/with Kubernetes and Amazon Web Services
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Native News - CNN34](https://blog.nativecloud.dev/cnn-2020-34/)
 - [Cloud Native News - CNN33](https://blog.nativecloud.dev/cnn-2020-33/)
 - [KubeCon/CloudNativeCon EU - Top Talks, Co-Located Events & How to get started!](https://blog.nativecloud.dev/kubecon-cloudnativecon-eu-2020/)
 - [Cloud Native News - CNN32](https://blog.nativecloud.dev/cnn-2020-32/)
 - [Cloud Native News - CNN31](https://blog.nativecloud.dev/cnn-2020-31/)
-- [Cloud Native News - CNN30](https://blog.nativecloud.dev/cnn-2020-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
