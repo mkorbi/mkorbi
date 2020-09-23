@@ -47,11 +47,11 @@ At day I build cloud native solutions on/with Kubernetes and Amazon Web Services
 
 ### 🎙 Latest Podcast Episodes
 <!-- PODCAST:START -->
+- [WTF is Agile?](https://anchor.fm/unwyred/episodes/WTF-is-Agile-ek0l1m)
 - [Starting a Career in Tech](https://anchor.fm/unwyred/episodes/Starting-a-Career-in-Tech-eisb42)
 - [Digital Learning Platforms and Micro Credentials](https://anchor.fm/unwyred/episodes/Digital-Learning-Platforms-and-Micro-Credentials-ehqar1)
 - [Facial Recognition Software](https://anchor.fm/unwyred/episodes/Facial-Recognition-Software-eh6705)
 - [Home Office and Remote Work](https://anchor.fm/unwyred/episodes/Home-Office-and-Remote-Work-egblbu)
-- [Corona/COVID Tracing Apps](https://anchor.fm/unwyred/episodes/CoronaCOVID-Tracing-Apps-efnkpg)
 <!-- PODCAST:END -->
 ---
 
