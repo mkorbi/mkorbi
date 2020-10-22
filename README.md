@@ -1,6 +1,6 @@
 ### Hey, I'm Max
 
-At day I build cloud native solutions on/with Kubernetes and Amazon Web Services (AWS), from the solution architecture of a system to the infrastructure of the platform. At night I support open source projects where possible, currently as part of the Kubernetes Release Team, writing blogs, record podcasts and give talks about the cloud native and open source universe.
+At day I build cloud native solutions on/with Kubernetes and multi-/hybrid cloud environments, from the solution architecture of a system to the infrastructure of the platform. At night I support open source projects where possible, currently as part of the Kubernetes Release Team, writing blogs, record podcasts and give talks about the cloud native and open source universe.
 
 - 🥇 2020 Goals
     - 💻 Make more people contribute to Open Source projects
