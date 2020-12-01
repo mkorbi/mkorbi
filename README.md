@@ -47,11 +47,11 @@ At day I build cloud native solutions on/with Kubernetes and multi-/hybrid cloud
 
 ### 🎙 Latest Podcast Episodes
 <!-- PODCAST:START -->
+- [Why We Love Open Source](https://anchor.fm/unwyred/episodes/Why-We-Love-Open-Source-en02on)
 - [WTF is the Cloud?](https://anchor.fm/unwyred/episodes/WTF-is-the-Cloud-elrg9i)
 - [Dear Headhunters](https://anchor.fm/unwyred/episodes/Dear-Headhunters-ekjdrv)
 - [WTF is Agile?](https://anchor.fm/unwyred/episodes/WTF-is-Agile-ek0l1m)
 - [Starting a Career in Tech](https://anchor.fm/unwyred/episodes/Starting-a-Career-in-Tech-eisb42)
-- [Digital Learning Platforms and Micro Credentials](https://anchor.fm/unwyred/episodes/Digital-Learning-Platforms-and-Micro-Credentials-ehqar1)
 <!-- PODCAST:END -->
 ---
 
