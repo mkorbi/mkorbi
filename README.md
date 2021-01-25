@@ -36,11 +36,11 @@ At day I build cloud native solutions on/with Kubernetes and multi-/hybrid cloud
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Native News - CNN 21/02](https://blog.nativecloud.dev/cnn-2021-02/)
+- [Cloud Native News - CNN21/03](https://blog.nativecloud.dev/cnn-2021-03/)
+- [Cloud Native News - CNN21/02](https://blog.nativecloud.dev/cnn-2021-02/)
 - [Cloud Native News - CNN49](https://blog.nativecloud.dev/cloud-native-news-cnn49/)
 - [Cloud Native News - CNN48](https://blog.nativecloud.dev/cloud-native-news-48/)
 - [Cloud Native News - CNN47](https://blog.nativecloud.dev/cnn-2020-47/)
-- [Cloud Native News - CNN46](https://blog.nativecloud.dev/cnn-2020-46/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
