@@ -49,11 +49,11 @@ Because we love what we do we created a company Liquid Reply (within the Reply c
 
 ### 🎙 Latest Podcast Episodes
 <!-- PODCAST:START -->
+- [Password Managers: Why You Need One](https://anchor.fm/unwyred/episodes/Password-Managers-Why-You-Need-One-epd7ak)
 - [Why We Love Open Source](https://anchor.fm/unwyred/episodes/Why-We-Love-Open-Source-en02on)
 - [WTF is the Cloud?](https://anchor.fm/unwyred/episodes/WTF-is-the-Cloud-elrg9i)
 - [Dear Headhunters](https://anchor.fm/unwyred/episodes/Dear-Headhunters-ekjdrv)
 - [WTF is Agile?](https://anchor.fm/unwyred/episodes/WTF-is-Agile-ek0l1m)
-- [Starting a Career in Tech](https://anchor.fm/unwyred/episodes/Starting-a-Career-in-Tech-eisb42)
 <!-- PODCAST:END -->
 ---
 
