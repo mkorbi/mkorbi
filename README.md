@@ -57,8 +57,6 @@ Because we love what we do we created a company Liquid Reply (within the Reply c
 <!-- PODCAST:END -->
 ---
 
-![Max's github stats](https://github-readme-stats.vercel.app/api?username=mkorbi&count_private=true&show_icons=true&theme=onedark)
-
 [website]: https://max.koerbaecher.io
 [twitter]: https://twitter.com/mkoerbi
 [instagram]: https://instagram.com/alpinetechmax
