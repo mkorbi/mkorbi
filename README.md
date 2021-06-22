@@ -38,11 +38,11 @@ Because we love what we do we created a company Liquid Reply (within the Reply c
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Native News - CNN21/24](https://blog.nativecloud.dev/cnn-2021-24/)
 - [Cloud Native News - CNN21/23](https://blog.nativecloud.dev/cnn-2021-23/)
 - [Cloud Native News - CNN21/22](https://blog.nativecloud.dev/cnn-2021-22/)
 - [Cloud Native News - CNN21/21](https://blog.nativecloud.dev/cnn-2021-21/)
 - [Cloud Native News - CNN21/20](https://blog.nativecloud.dev/cnn-2021-20/)
-- [Cloud Native News - CNN21/19](https://blog.nativecloud.dev/cnn-2021-19/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
