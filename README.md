@@ -18,37 +18,8 @@ Because we love what we do we created a company Liquid Reply (within the Reply c
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/keybase.svg" />][keybase]
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxkoerbaecher)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mkoerbi)
+[![Website](https://img.shields.io/badge/Website-%2326A570.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://max.koerbaecher.io)
 <br />
 
-### Languages and Tools:
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
-
-<br />
-<br />
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Cloud Native News - CNN21/50](https://blog.nativecloud.dev/cnn-2021-50/)
-- [Cloud Native News - CNN21/49](https://blog.nativecloud.dev/cnn-2021-49/)
-- [Cloud Native News - CNN21/48](https://blog.nativecloud.dev/cnn-2021-48/)
-- [Cloud Native News - CNN21/47](https://blog.nativecloud.dev/cnn-2021-47/)
-- [Cloud Native News - CNN21/46](https://blog.nativecloud.dev/cnn-2021-46/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
-[website]: https://max.koerbaecher.io
-[twitter]: https://twitter.com/mkoerbi
-[instagram]: https://instagram.com/alpinetechmax
-[linkedin]: https://linkedin.com/in/maxkoerbaecher
-[blog]: https://nativecloud.dev
-[keybase]: https://keybase.io/mkorbi
