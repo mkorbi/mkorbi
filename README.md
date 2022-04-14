@@ -12,12 +12,6 @@ Because we love what we do we created a company Liquid Reply (within the Reply c
 
 ### Connect with me:
 
-[<img align="left" alt="max.koerbaecher.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="NativeCloud.dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rss.svg" />][blog]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/keybase.svg" />][keybase]
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxkoerbaecher)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mkoerbi)
 [![Website](https://img.shields.io/badge/Website-%2326A570.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://max.koerbaecher.io)
